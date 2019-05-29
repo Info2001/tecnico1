@@ -61,7 +61,7 @@ main{
 
 @media(max-width:768px) {
     .carousel {
-    	padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    	padding-top: 55px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     }
 
     .navbar-fixed-top .navbar-brand {
